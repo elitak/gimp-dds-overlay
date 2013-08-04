@@ -10,7 +10,7 @@ KEYWORDS="~amd64 ~x86"
 IUSE=""
 
 RDEPEND="
-    =media-gfx/gimp-2.4.0
+    >=media-gfx/gimp-2.4.0
 	x11-libs/gtk+:2
 "
 DEPEND="${RDEPEND}"
